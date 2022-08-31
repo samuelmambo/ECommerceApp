@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_home.xml" value="0.15384615384615385" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_main.xml" value="0.23513513513513515" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_slider.xml" value="0.22420537897310513" />
-        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_splash.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_splash.xml" value="0.10981308411214953" />
       </map>
     </option>
   </component>
@@ -18,7 +19,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.2975630611372381" />
+        <option name="scale" value="0.23513513513513515" />
       </ProjectState>
     </option>
   </component>
