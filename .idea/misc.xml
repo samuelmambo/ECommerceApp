@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.2575" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.2575" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_book.xml" value="0.2575" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_home.xml" value="0.15384615384615385" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_main.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_nav.xml" value="0.1" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_slider.xml" value="0.22420537897310513" />
         <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_splash.xml" value="0.10981308411214953" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_fav.xml" value="0.23209459459459458" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_music.xml" value="0.22297297297297297" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_news.xml" value="0.23209459459459458" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_places.xml" value="0.23209459459459458" />
+        <entry key="..\:/Users/WEB 2/AndroidStudioProjects/ECommerceApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23141891891891891" />
       </map>
     </option>
   </component>
